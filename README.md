@@ -11,10 +11,11 @@ To provide a responsive user experience for communities using either mobile or d
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 I built this project to practice my refractor code skills and to provide an interactive website for any user, regardless of their mobile phone carrier or desktop brand. 
 - What problem does it solve?
+Last day of class and needed to turn in this challenge
 
 
 - What did you learn?
-
+THata portfolio is labor intensive.
 
 
 ## Table of Contents (Optional)
@@ -43,6 +44,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
+help from my bootcamp tutor
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
